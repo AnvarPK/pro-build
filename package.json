@@ -1,5 +1,5 @@
 {
-  "name": "pro-build",
+  "name": "pro-serve",
   "version": "1.0.25",
   "description": "A project build module",
   "main": "index.js",
