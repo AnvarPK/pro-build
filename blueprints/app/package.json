@@ -1,0 +1,16 @@
+{
+    "name": "project",
+    "version": "1.0.0",
+    "description": "project description",
+    "main": "gulpfile.js",
+    "devDependencies": {},
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "browser-sync": "^2.11.2",
+        "express": "^4.13.4",
+        "gulp": "^3.9.1",
+        "gulp-postcss": "^6.1.0",
+        "gulp-sass": "^2.2.0"
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "pro-build",
+  "version": "1.0.22",
+  "description": "A project build module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hi": "hi"
+  },
+  "bin": {
+    "ch": "./bin/ch.js"
+  },
+  "keywords": [
+    "project-build"
+  ],
+  "devDependencies": {},
+  "author": "anvar <anvarmanathala@gmail.com> (http://anvar.16mb.com)",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "fs-extra": "^0.26.7",
+    "gulp": "^3.9.1"
+  }
+}
