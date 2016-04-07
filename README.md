@@ -1,11 +1,7 @@
-# README #
 
 PRO-BUILD is a simple gulp boilerplate node app
 
-### What is this repository for? ###
-
-* PRO-BUILD is a simple gulp boilerplate node app
-* 1.0.22
+* PRO-BUILD is a simple gulp boilerplate node app , 
 
 
 ### How do I get set up? ###
@@ -14,7 +10,7 @@ PRO-BUILD is a simple gulp boilerplate node app
 * ch new appName
 * cd appName
 * npm i
-* ch serve
+* ch serve - to start serving project and notifying the changes on browser (gulp)
 
 
 
