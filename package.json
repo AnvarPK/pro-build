@@ -1,6 +1,6 @@
 {
   "name": "pro-serve",
-  "version": "1.0.26",
+  "version": "1.0.27",
   "description": "A project build module",
   "main": "index.js",
   "scripts": {
