@@ -11,7 +11,7 @@
     "ch": "./bin/ch.js"
   },
   "keywords": [
-    "project-build"
+    "project-build gulp"
   ],
   "devDependencies": {},
   "author": "anvar <anvarmanathala@gmail.com> (http://anvar.16mb.com)",
