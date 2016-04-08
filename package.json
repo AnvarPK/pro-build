@@ -1,17 +1,15 @@
 {
-  "name": "pro-serve",
+  "name": "pro-build",
   "version": "1.0.27",
-  "description": "A project build module",
+  "description": "Command line tool for developing FrondEnd project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "hi": "hi"
   },
   "bin": {
     "ch": "./bin/ch.js"
   },
   "keywords": [
-    "project-build,gulp"
+    "project-build,gulp,javascript,cli"
   ],
   "devDependencies": {},
   "author": "anvar <anvarmanathala@gmail.com> (http://anvar.16mb.com)",

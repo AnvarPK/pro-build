@@ -1,20 +1,12 @@
 
-PRO-BUILD is a simple gulp boilerplate node app
-
-* PRO-BUILD is a simple gulp boilerplate node app , 
+PRO-BUILD is a command line tool for FrondEnd Developer to generate boilerplate and watch changes
 
 
-### How do I get set up? ###
+### Developing with PRO-BUILD ###
 
 * npm i -g pro-buil
 * ch new appName
 * cd appName
 * npm i
-* ch serve - to start serving project and notifying the changes on browser (gulp)
+* ch serve - to watch the changes on browser
 
-
-
-
-### Who do I talk to? ###
-
-* Anvar
