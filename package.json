@@ -1,6 +1,6 @@
 {
   "name": "pro-build",
-  "version": "1.0.27",
+  "version": "1.0.26",
   "description": "Command line tool for developing FrondEnd project",
   "main": "index.js",
   "scripts": {
